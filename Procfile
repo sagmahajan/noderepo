@@ -1,0 +1,19 @@
+ Volume in drive D is STORAGE
+ Volume Serial Number is EA02-2105
+
+ Directory of D:\node_practice
+
+22-May-16  07:28 AM    <DIR>          .
+22-May-16  07:28 AM    <DIR>          ..
+22-May-16  07:24 AM             1,442 app.js
+22-May-16  07:24 AM    <DIR>          bin
+22-May-16  07:12 AM                 0 hello.js
+22-May-16  07:20 AM    <DIR>          node_modules
+22-May-16  07:24 AM               332 package.json
+22-May-16  07:28 AM                 0 Procfile
+22-May-16  07:24 AM    <DIR>          public
+22-May-16  07:10 AM                15 README.md
+22-May-16  07:24 AM    <DIR>          routes
+22-May-16  07:24 AM    <DIR>          views
+               5 File(s)          1,789 bytes
+               7 Dir(s)   8,100,593,664 bytes free
