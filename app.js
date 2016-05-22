@@ -55,7 +55,7 @@ app.use(function(err, req, res, next) {
     error: {}
   });
 });
-var port=process.env.port||8080;
+var port=process.env.PORT||8080;
 app.listen(port, function(){
 console.log("hello world...server running on "+port);
 });
